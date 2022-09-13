@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 jotain
 plaa
 plaa
+=======
+plaa
+plaa
+esine
+>>>>>>> 3b147471db7d6826385e5fe4a0ce8525d69349a5
